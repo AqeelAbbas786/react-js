@@ -1,0 +1,125 @@
+1	/Setting up React environment, Create React App
+2	/Hello World, Components, JSX
+3	/Functional vs class components, Props
+4	/State, Lifecycle methods
+5	/Hooks – useState, useEffect, useContext
+6	/Event handling
+7	/Forms – controlled components, submission, validation
+8	/Conditional rendering – if, ternary, &&
+9	Lists and keys
+10	Importance of keys
+11	/Styling – CSS, CSS Modules, CSS-in-JS
+12	React Router – setup, routes, parameters
+13	/Redux – setup, actions, reducers
+14	Async/await, Promises, Fetch API
+15	/Error handling, debugging, optimization
+16	Deployment – Netlify, Vercel, AWS
+
+
+
+Module 1. Introduction to React.js 
+This part of the course will help you set up a React development environment and understand all the necessary tools required to be installed on your systems to run react.js.
+
+Setting up a React development environment (e.g., Node.js, npm, Create React App)
+Module 2. Creating Your First React Application 
+Once React is installed, it’s time to learn coding in React.js. This part of the course will introduce you to some basic React coding examples, understand its components, and know JSX (Javascript XML) syntax.
+
+Hello World example 
+Understanding React components 
+JSX syntax 
+Module 3. Understanding Components and Props 
+Components are like functions in React that return HTML elements. Here, we will learn the two main types of React Components: functional components and class components. Further, props (referred to as properties) are the arguments you pass into React Components via HTML attributes. This section of the course will also cover the details about props, how to use them, and passing props in React.
+
+Functional components 
+Class components 
+Passing and using props 
+Module 4. State and Lifecycle 
+React State is an instance of the React Component Class that can be an object of a set of observable properties controlling the behaviour of the component. There are multiple conventions of using State, and you will get a clear understanding of them from this section. You will learn component lifecycle methods that control the components’ behaviour and perform certain tasks at different stages of their life cycle.
+
+State in React components 
+Updating state 
+Component lifecycle methods 
+Module 5. React Hooks 
+From this section, you can learn about React hooks that allow function components to access react features like State and life cycle methods. This part will mainly cover react useState(), useEffect(), and useContext() hooks.
+
+useState() 
+useEffect() 
+useContext() 
+Module 6. Handling Events 
+Event handling in React allows users to interact with a web page and take certain actions when an event occurs, like a click or a hover. You can learn everything about event handling, binding event handlers, and the difference between arrow functions and regular functions from this section.
+
+Event handling in React 
+Binding event handlers
+Arrow functions vs. regular functions 
+Module 7. Working with Forms 
+Forms are used in React to allow users to interact with web pages.  You will learn about React forms, handling form submission and form validation from this part of the course. Additionally, you will get a brief understanding of control components in React.
+
+Controlled components 
+Handling form submission 
+Form validation 
+Module 8. Conditional Rendering 
+React allows users to conditionally render React components. You can use if statements to decide which React component to render or use ternary operators and logical && operators for the same. But to know how to use them, this section will be helpful. 
+
+Conditional rendering with if statements 
+Ternary operators and logical && in JSX 
+Module 9. Lists and Keys 
+This section of the course gives a brief understanding of React Lists and Keys, how to use .map() to render lists of elements, and the way of providing keys to each list item. Keys allow users to keep track of elements in a React list.
+
+Rendering Lists 
+Using .map() to render lists of elements 
+Providing a key for each item
+Module 10. Understanding Keys 
+This segment of the course gives a brief understanding of the importance of using React Keys and how you can choose the correct key for each list element.
+
+The importance of keys in React 
+Choosing the correct key 
+Module 11. Styling in React.js 
+There are multiple ways for styling in React.js using CSS that you will learn here, including inline styles, different styling approaches, styling libraries, and popular CSS frameworks.
+
+CSS in React 
+Different approaches for styling (CSS, CSS-in-JS, CSS Modules)  
+Inline styles 
+Styling Libraries 
+Popular CSS frameworks (e.g., Bootstrap, Material-UI) 
+Module 12. React Router
+This is a standard library for routing support in React and allows navigation among multiple views of different components in a React application. In this section, you will learn about React routers, how to set up a router, create routes, pass parameters to routes, nested routes, and dynamic routing.
+
+Introduction to React Router 
+Setting up React Router 
+Creating routes 
+Navigating with React Router 
+Using Link and NavLink 
+Nested Routes and Dynamic Routing 
+Nested routes 
+Passing parameters to routes 
+Module 13. State Management with Redux 
+In React, effective state management entails the ability to store and update data in an application, and Redux helps manage and update the application state using events. This section will introduce you to Regex and its basic concepts: setting up and installing Regex, connecting React with Regex, and creating and dispatching actions. 
+
+Introduction to Redux 
+Understanding the need for state management 
+Basic concepts: actions, reducers, store 
+Setting Up Redux 
+Installing Redux and setting up a store 
+Creating actions and reducers 
+Connecting React with Redux 
+Using connect to connect components to the store 
+Dispatching actions 
+Module 14. Asynchronous Programming and API Integration 
+In React, there are multiple ways of fetching data asynchronously from an API. You will learn in-depth about asynchronous programming and API integration, along with making HTTP requests and fetching data from an API. 
+
+AJAX and Fetch API 
+Making HTTP requests in React 
+Fetching data from an API 
+Async/Await and Promises 
+Module 15. Handling errors in React applications 
+Error handling is an essential task in developing a user-friendly React application. There can be different types of errors that can impact the effectiveness of an application or its performance. You will learn error handling and debugging from this section of the course, along with understanding React.memo and PureComponent, Memoization, and performance optimisation.
+
+Error Handling and Debugging 
+Debugging React apps 
+Performance Optimization 
+Memoization
+React.memo and PureComponent
+Module 16. Deploying a React application
+Finally, this course will give learners a clear understanding of how to deploy React applications along with necessary cloud services like Netlify, AWS, and more.
+
+Deployment Cloud Services (Netlify, Vercel, AWS)
